@@ -1,0 +1,12 @@
+.contact-card .fa {
+  cursor: pointer;
+}
+
+.navbar-nav {
+  display: inline-block;
+}
+
+.navbar-nav .nav-item {
+  display: inline-block;
+  margin-left: 15px;
+}
